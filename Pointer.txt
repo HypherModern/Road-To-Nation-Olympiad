@@ -1,0 +1,10 @@
+Simply, * is to learn for content & is to learn for address
+ example: 
+int x = 9; //decleration 
+int *p = &x; //decleration 
+cout << x; // 9 
+cout << *p; // 9 
+cout << &x; // address of x 
+cout << p; // address of x 
+cout << &p; // address of p
+Clear?
