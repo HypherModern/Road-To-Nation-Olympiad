@@ -7,7 +7,7 @@
 #define sp setprecision
 #define pb push_back
 
-const ll N = 1e3+1;
+const ll N = 100;
 const ll oo = 1e17;
 const ll mod = 1e9+7;
 

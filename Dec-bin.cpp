@@ -3,8 +3,7 @@
 //Output: binary number
 #include <iostream>
 using namespace std;
-void decToBinary(int n)
-{
+void decToBinary(int n){
     // array to store binary number
     int binaryNum[32];
  
@@ -29,7 +28,7 @@ int main(){
     while (T--){
         long long int n;
         cin >> n;
-        unsigned long long c = decimalToBinary(n);
+        unsigned long long c = decToBinary(n);
         //count the number of 1 in binary number
        /* int count = 0;
         while (c != 0){
