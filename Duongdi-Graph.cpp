@@ -14,7 +14,7 @@ const ll mod = 1e9+7;
 using namespace std;
 
 bool kt=true;
-ll n,m,s,t;
+ll n,m,s,t,j;
 ll visit[3001];
 ll G[3001][3001];
 ll c[3001],p[3001];
